@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void strrev(char *str) // Funcion proporcionada por chatgpt
+void strrev(char *str)
 {
     int length = strlen(str);
     for (int i = 0; i < length / 2; ++i)
