@@ -5,7 +5,7 @@
 #include "cal.h"
 #include "ope.h"
 #include "imp.h"
-#include "../Clases c++/strM.h"
+#include "strM.h"
 
 using namespace std;
 
